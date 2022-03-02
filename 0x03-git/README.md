@@ -1,2 +1,2 @@
-**My second fancy readme** /n
+**My second fancy readme**
 *Updated readme*
